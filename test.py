@@ -5,4 +5,4 @@ print("Hello, World!")
 name = input("What is your name?\n") 
 
 # Print a greeting using the input name with an f-string (formatted string literal)
-print(f"Hi, {name}.")
+
